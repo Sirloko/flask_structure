@@ -1,1 +1,22 @@
-# flask_structure
+# Flask Structure.
+
+### Installing
+
+```
+pip install flask
+
+```
+
+## Authors
+
+* **oyeleke Elijah** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Inspiration
+* Julian Nash
+
